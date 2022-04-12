@@ -66,7 +66,7 @@ function App() {
   runFacemesh();
   return (
     <div className="App">
-      <h1>Face-Mesh tensorflowJS | Gaurav Sangwan</h1>
+      <h1>Face-Mesh tensorflowJS | Kartik Choudhary</h1>
       <header className="App-header">
       <Webcam 
         ref={webcamRef} 
